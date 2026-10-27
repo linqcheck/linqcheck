@@ -1,16 +1,16 @@
-## Hi there 👋
+# LinqCheck
 
-<!--
-**linqcheck/linqcheck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Is your product page ready for AI shopping systems?**
 
-Here are some ideas to get you started:
+LinqCheck is a web app that analyzes e-commerce product pages. It highlights missing and inconsistent product information, helps you fill the gaps and generates ready-to-publish product content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ürün sayfanız AI alışveriş sistemlerine hazır mı?**
+
+LinqCheck, e-ticaret ürün sayfalarını analiz eden bir web uygulamasıdır. Ürün sayfanızdaki eksik ve tutarsız bilgileri gösterir, ihtiyaç duyulan alanları tamamlamanıza yardımcı olur ve yayına hazır ürün içeriği oluşturur.
+
+- 🔗 Web: [linqcheck.com](https://linqcheck.com) · [Türkçe](https://linqcheck.com/tr)
+- 🏢 A [TalyNext](https://talynext.com) product · Bir TalyNext ürünü
+- 📍 Istanbul, Türkiye
+
+> This account belongs to the LinqCheck e-commerce app and is not affiliated with the open-source .NET library of the same name.
+> Bu hesap LinqCheck e-ticaret uygulamasına aittir; aynı adı taşıyan açık kaynaklı .NET kütüphanesiyle bir bağlantısı yoktur.
